@@ -1,0 +1,6 @@
+{
+  "name": "Saqafa Academy One-to-One LMS",
+  "description": "A complete personalized One-to-One online Islamic, Quran, Arabic, and Moral Education platform with Public Website, Hybrid Enrollment CRM, and Role-Based Dashboards for Admin, Teacher, Student, and Parent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
